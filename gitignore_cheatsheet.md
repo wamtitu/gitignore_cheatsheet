@@ -1,2 +1,3 @@
 -blanks lines and lines starting with # are ignored
 -node modules folder is ignored
+- .env files are also ignored, mostky for security purposes
